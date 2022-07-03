@@ -1,7 +1,7 @@
 {
   "name": "devops",
   "version": "1.0.0",
-  "description": "",
+  "description": "Implement CI/CD with Github Actions.",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -19,5 +19,13 @@
   "dependencies": {
     "firebase-tools": "^7.14.0",
     "terser": "^4.6.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireship-io/225-github-actions-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fireship-io/225-github-actions-demo/issues"
+  },
+  "homepage": "https://github.com/fireship-io/225-github-actions-demo#readme"
 }
